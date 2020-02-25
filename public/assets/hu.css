@@ -1,0 +1,38 @@
+body
+{
+    margin:5px;
+    width: 100%;
+    height: auto;
+    background-color:transparent;
+}
+#div1
+{
+    margin: 5px;
+    background-color:blue;
+    margin:1opx;
+    height:90px;
+}
+
+#pic
+{
+    margin: 5px;
+    margin-left:1000px;
+    margin-top:-80px;
+}
+#div2{
+    margin: 5px;
+    background-color:whitesmoke;
+    height:30px;
+}
+.navbarlink{
+    color:white !important;
+}
+.navbarlink:hover{
+    color:gray !important;
+}
+.login-form{
+    text-align: center;
+}
+.form-page{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
